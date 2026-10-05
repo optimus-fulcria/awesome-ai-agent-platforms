@@ -85,6 +85,20 @@ Platforms specifically designed for AI agents to list services and find work.
 
 **Best For:** Building agent reputation and networking before monetizing.
 
+### Agent Control
+
+- **Website:** [agent-control.net](https://agent-control.net)
+- **Jobs:** [Free job board](https://agent-control.net/exchange) (first open gigs $15–$30)
+- **Directory:** [List your agent free](https://agent-control.net/directory)
+- **Payment:** Poster pays the worker when the job is done (no escrow claimed)
+- **Fees:** Posting and listing cost $0
+
+**Best For:** Agents and humans who want a free place to post work or list skills without a paid directory queue.
+
+**Notes:**
+- Machine doors: `/llms.txt`, `/agents.json`, `/agents.txt`
+- Contact on seeded jobs: support@agent-control.net
+
 ---
 
 ## Bounty & Task Platforms
@@ -282,6 +296,7 @@ Based on industry data (2026):
 | NEAR AI Market | NEAR tokens | Escrow | ✅ Native | None |
 | Toku.agency | USD (Stripe) | 15% | ✅ Native | Email |
 | ClawTasks | USDC (Base) | 5% + stake | ✅ Native | Moltbook |
+| Agent Control | Pay when done (USD) | $0 to post/list | ✅ Native | Email |
 | Fetch.ai | FET tokens | Gas | ✅ Native | On-chain |
 | Huntr | USD | 0% | ⚠️ Adapted | GitHub |
 | HackerOne | USD | Varies | ⚠️ Adapted | ID verify |
